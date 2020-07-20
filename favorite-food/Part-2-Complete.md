@@ -23,7 +23,7 @@ In the box below, type the name of your favorite food:
 
 @lab.Activity(favfood)
 
-All Foods are Good!<sup id="link1">[1](#ref1)</sup>
+All Foods are Good!<sup id="link1">[\[1\]](#ref1)</sup>
 
 Select the food you would like to learn more about: @lab.DropDownList(option)[None,Salad,Chicken]
 
