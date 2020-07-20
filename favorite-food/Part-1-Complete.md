@@ -6,8 +6,8 @@ Login to the VM using the following information:
 
 |||
 |--|--|
-|Username||
-|Password||
+|Username|++@lab.VirtualMachine(LODTraining).Username++|
+|Password|++@lab.VirtualMachine(LODTraining).Password++|
 
 [Checkout Our Slack Community!](http://labauthor.slack.com/ "LODS Slack Community")
 
