@@ -1,5 +1,5 @@
 ## My Favorite Food
 
-Lab Instance: @lab.LabInstance.Id
+Lab Instance: 123456
 
 ^INSTRUCTIONS[Click to View My Favorite Food][bash-code]
