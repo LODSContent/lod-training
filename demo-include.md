@@ -1,6 +1,6 @@
 # Public GitHub File
 
-This file is available publicly on GitHub, anyone can access it from this link [https://github.com/LODSContent/lod-training/blob/master/demo-include.md].
+This file is available publicly on GitHub, anyone can access it from [this link](https://github.com/LODSContent/lod-training/blob/master/demo-include.md).
 
 1. Login to the Cloud Platform using the provided credentials.
 
